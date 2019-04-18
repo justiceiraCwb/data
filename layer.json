@@ -124,7 +124,7 @@
 		{
 			"techniqueID": "T1011",
 			"tactic": "exfiltration",
-			"color": "#fcf26b",
+			"color": "#a1d99b",
 			"comment": "",
 			"enabled": true,
 			"metadata": []
