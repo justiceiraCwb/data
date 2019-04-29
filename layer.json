@@ -36,7 +36,7 @@
 		{
 			"techniqueID": "T1139",
 			"tactic": "credential-access",
-			"color": "#fcf26b",
+			"color": "#a1d99b",
 			"comment": "",
 			"enabled": true,
 			"metadata": []
@@ -92,7 +92,7 @@
 		{
 			"techniqueID": "T1214",
 			"tactic": "credential-access",
-			"color": "#fcf26b",
+			"color": "#a1d99b",
 			"comment": "",
 			"enabled": true,
 			"metadata": []
@@ -132,7 +132,7 @@
 		{
 			"techniqueID": "T1052",
 			"tactic": "exfiltration",
-			"color": "#fcf26b",
+			"color": "#a1d99b",
 			"comment": "",
 			"enabled": true,
 			"metadata": []
@@ -381,6 +381,14 @@
 			"techniqueID": "T1078",
 			"tactic": "initial-access",
 			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1035",
+			"tactic": "execution",
+			"color": "#fcf26b",
 			"comment": "",
 			"enabled": true,
 			"metadata": []
