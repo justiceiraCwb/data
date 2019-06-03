@@ -52,7 +52,7 @@
 		{
 			"techniqueID": "T1059",
 			"tactic": "execution",
-			"color": "#fcf26b",
+			"color": "#a1d99b",
 			"comment": "",
 			"enabled": true,
 			"metadata": []
@@ -76,7 +76,7 @@
 		{
 			"techniqueID": "T1003",
 			"tactic": "credential-access",
-			"color": "#fcf26b",
+			"color": "#a1d99b",
 			"comment": "",
 			"enabled": true,
 			"metadata": []
@@ -388,7 +388,7 @@
 		{
 			"techniqueID": "T1035",
 			"tactic": "execution",
-			"color": "#fcf26b",
+			"color": "#a1d99b",
 			"comment": "",
 			"enabled": true,
 			"metadata": []
@@ -412,6 +412,38 @@
 		{
 			"techniqueID": "T1107",
 			"tactic": "defense-evasion",
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1020",
+			"tactic": "exfiltration",
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1050",
+			"tactic": "persistence",
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1050",
+			"tactic": "privilege-escalation",
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1077",
+			"tactic": "lateral-movement",
 			"color": "#fcf26b",
 			"comment": "",
 			"enabled": true,
